@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="tr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AtheraCoin</title>
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.6;background:#0A0A0A;color:#fff}
+  .card{border:1px solid #333;border-radius:14px;padding:30px;box-shadow:0 2px 8px rgba(255,215,0,.1);background:#1A1A1A}
+  h1{margin:0 0 20px;color:#FFD700;font-size:2.5em}
+  h2{color:#FFA500;margin:20px 0 10px}
+  a{color:#FFD700;text-decoration:none;font-weight:500}
+  a:hover{text-decoration:underline}
+  .logo{text-align:center;margin-bottom:30px}
+  .coin{display:inline-block;width:80px;height:80px;background:#FFD700;border-radius:50%;line-height:80px;font-size:48px;font-weight:bold;color:#0A0A0A;margin-bottom:20px}
+  ul{padding-left:20px}
+  li{margin:8px 0}
+</style>
+<body>
+  <div class="card">
+    <div class="logo">
+      <div class="coin">A</div>
+      <h1>AtheraCoin</h1>
+    </div>
+    
+    <p>Dijital coin madenciliği uygulaması. iOS ve Android cihazlarınızda coin madenciliği yapın!</p>
+    
+    <h2>📱 Uygulama Özellikleri</h2>
+    <ul>
+      <li>Kolay coin madenciliği</li>
+      <li>Günlük ödüller ve bonuslar</li>
+      <li>Liderlik tablosu</li>
+      <li>Arkadaş davet sistemi</li>
+      <li>Gerçek zamanlı istatistikler</li>
+    </ul>
+    
+    <h2>🛠️ Destek</h2>
+    <p>Herhangi bir sorun yaşıyorsanız <a href="/support">destek sayfamızı</a> ziyaret edin.</p>
+    
+    <h2>📧 İletişim</h2>
+    <p><strong>E-posta:</strong> <a href="mailto:support@atheracoin.com">support@atheracoin.com</a></p>
+    
+    <h2>🔗 Bağlantılar</h2>
+    <ul>
+      <li><a href="/support">Destek Sayfası</a></li>
+      <li><a href="mailto:support@atheracoin.com">E-posta Desteği</a></li>
+    </ul>
+  </div>
+</body>
+</html>
